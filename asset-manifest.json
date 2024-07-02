@@ -1,16 +1,29 @@
 {
   "files": {
     "main.css": "/tma_react_test/static/css/main.f855e6bc.css",
-    "main.js": "/tma_react_test/static/js/main.69386720.js",
-    "static/js/453.6e2d67ac.chunk.js": "/tma_react_test/static/js/453.6e2d67ac.chunk.js",
+    "main.js": "/tma_react_test/static/js/main.e6845e92.js",
+    "static/js/432.5bfbeb8a.chunk.js": "/tma_react_test/static/js/432.5bfbeb8a.chunk.js",
+    "static/js/45.220b770d.chunk.js": "/tma_react_test/static/js/45.220b770d.chunk.js",
+    "static/js/435.c30ef683.chunk.js": "/tma_react_test/static/js/435.c30ef683.chunk.js",
+    "static/js/743.254310df.chunk.js": "/tma_react_test/static/js/743.254310df.chunk.js",
+    "static/js/453.6ee4a5bb.chunk.js": "/tma_react_test/static/js/453.6ee4a5bb.chunk.js",
+    "static/js/171.cde4779f.chunk.js": "/tma_react_test/static/js/171.cde4779f.chunk.js",
+    "static/js/400.784b8b5a.chunk.js": "/tma_react_test/static/js/400.784b8b5a.chunk.js",
+    "static/js/975.6f1d15c4.chunk.js": "/tma_react_test/static/js/975.6f1d15c4.chunk.js",
     "static/media/logo.svg": "/tma_react_test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tma_react_test/index.html",
     "main.f855e6bc.css.map": "/tma_react_test/static/css/main.f855e6bc.css.map",
-    "main.69386720.js.map": "/tma_react_test/static/js/main.69386720.js.map",
-    "453.6e2d67ac.chunk.js.map": "/tma_react_test/static/js/453.6e2d67ac.chunk.js.map"
+    "main.e6845e92.js.map": "/tma_react_test/static/js/main.e6845e92.js.map",
+    "45.220b770d.chunk.js.map": "/tma_react_test/static/js/45.220b770d.chunk.js.map",
+    "435.c30ef683.chunk.js.map": "/tma_react_test/static/js/435.c30ef683.chunk.js.map",
+    "743.254310df.chunk.js.map": "/tma_react_test/static/js/743.254310df.chunk.js.map",
+    "453.6ee4a5bb.chunk.js.map": "/tma_react_test/static/js/453.6ee4a5bb.chunk.js.map",
+    "171.cde4779f.chunk.js.map": "/tma_react_test/static/js/171.cde4779f.chunk.js.map",
+    "400.784b8b5a.chunk.js.map": "/tma_react_test/static/js/400.784b8b5a.chunk.js.map",
+    "975.6f1d15c4.chunk.js.map": "/tma_react_test/static/js/975.6f1d15c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.69386720.js"
+    "static/js/main.e6845e92.js"
   ]
 }

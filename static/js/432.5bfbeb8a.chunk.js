@@ -1,0 +1,1 @@
+(self.webpackChunktma_react_test=self.webpackChunktma_react_test||[]).push([[432],{9432:()=>{}}]);
