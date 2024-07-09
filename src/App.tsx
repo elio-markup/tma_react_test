@@ -1,7 +1,8 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import WebApp from "@twa-dev/sdk";
 import {useState} from "react";
+import WebApp from '@twa-dev/sdk'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -9,6 +10,9 @@ function App() {
   // https://github.com/twa-dev/SDK/blob/45b54230902e36f4deeaaeeb140559008e82d0f4/src/telegram-web-apps.js#L1574
   return (
       <>
+          <div className="card">
+              initData - {WebApp.initData}
+          </div>
           <div className="card">
               <button onClick={() => WebApp.expand()}>
                   expand
@@ -21,7 +25,7 @@ function App() {
               <header className="App-header">
                   <img src={logo} className="App-logo" alt="logo"/>
                   <p>
-                      Edit <code>src/App.js</code> and save to reload.
+                      Edit <code>src/App.tsx</code> and save to reload.
                   </p>
                   <a
                       className="App-link"
@@ -67,7 +71,8 @@ function App() {
                   requestContact
               </button>
           </div>
-      </>);
+      </>
+  );
 }
 
 export default App;
